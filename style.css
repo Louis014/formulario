@@ -46,6 +46,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: 300ms;
 }
 .confirmar:hover {
     cursor: pointer;
@@ -67,6 +68,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: 300MS;
 }
 .limpar:hover {
     cursor: pointer;
